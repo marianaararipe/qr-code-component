@@ -10,7 +10,11 @@
 
   <style>
     .attribution { font-size: 11px; text-align: center; margin-top: 5px; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+    .attribution a { color: hsl(228, 45%, 44%); text-decoration: none; }
+    .attribution a:hover,
+    .attribution a:focus {
+      text-decoration: underline;
+    }
 
     :root{
       --slate-900: hsl(218, 44%, 22%);
