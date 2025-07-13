@@ -9,13 +9,19 @@ Este é um projeto baseado no desafio [QR code component](https://www.frontendme
 - Flexbox
 - Responsividade básica
 
+---
+
 ## 🎯 Objetivo
 
 Reforçar conceitos fundamentais de estrutura HTML, estilização com CSS, centralização com Flexbox e responsividade. Ótimo exercício de atenção aos detalhes e construção de layouts a partir de um design estático.
 
+---
+
 ## 📸 Screenshot
 
 ![Screenshot do projeto](./screenshot.png)
+
+---
 
 ## 🔗 Links
 
@@ -23,19 +29,13 @@ Reforçar conceitos fundamentais de estrutura HTML, estilização com CSS, centr
 - [📂 Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-a9Ceu-O_OT)
 - [📂 Código no GitHub](https://github.com/marianaararipe/qr-code-component)
 
+---
+
 ## 💡 O que aprendi
 
-- Como centralizar um elemento com Flexbox
-- A importância de aplicar `border-radius` e `box-shadow` para um design mais elegante
-- Refino no uso de unidades relativas e absolutas no CSS
+- Refinamento no uso de unidades relativas e absolutas no CSS
 
-## 🛠️ Em desenvolvimento contínuo
-
-Pretendo:
-
-- Melhorar a responsividade para telas menores
-- Tentar refazer esse mesmo componente usando TailwindCSS
-- Testar uma versão em React apenas por prática
+---
 
 ## 📚 Recursos úteis
 
@@ -45,7 +45,7 @@ Pretendo:
 ## 👤 Autor
 
 - GitHub: [@marianaararipe](https://github.com/marianaararipe)
-- Frontend Mentor: [@seu-usuario](https://www.frontendmentor.io/profile/seu-usuario)
+- Frontend Mentor: [@marianaararipe](https://www.frontendmentor.io/profile/marianaararipe)
 
 ## ✅ Status
 
