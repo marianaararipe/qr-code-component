@@ -19,8 +19,8 @@ Reforçar conceitos fundamentais de estrutura HTML, estilização com CSS, centr
 
 ## 🔗 Links
 
-- [Visualizar Projeto](https://marianaararipe.github.io/qr-code-component/)
-- [Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-a9Ceu-O_OT)
+- [🔗 Visualizar Projeto](https://marianaararipe.github.io/qr-code-component/)
+- [📂 Repositório no Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-a9Ceu-O_OT)
 - [📂 Código no GitHub](https://github.com/marianaararipe/qr-code-component)
 
 ## 💡 O que aprendi
